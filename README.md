@@ -1,5 +1,3 @@
-# Boulder-Dash-Overview
-Overview of my group project and my contribution for my software engineering module.
 # Boulder Bash (Visual Overview) 
 This repository provides an overview of my contributions to the **Boulder Bash** team project, inspired by the classic Boulder Dash game. 
 ## Project Overview 
