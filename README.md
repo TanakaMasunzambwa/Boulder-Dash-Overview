@@ -15,4 +15,4 @@ This repository provides an overview of my contributions to the **Boulder Bash**
   - Designed systems for enemy movement and grid integration.
   - Collaborated with teammates on debugging and final testing.
   - Aided in designing game visuals.
-## Diagrams and Visuals in assets are diagrams and screenshots demonstrating my work on the enemy system.
+## Diagrams and Visuals in the repository are diagrams and screenshots demonstrating my work on the enemy system.
